@@ -1,11 +1,11 @@
 # Portifolio_Arthur
 Portifólio para documentar o processo de aprendizado na disciplina de Programação Web
 
-  <title> Formulário </title>
+  <title>Formulário</title>
   
    Arquivo (s)
     <ul>
-      <li> CadastrarEmprestimo </li>
+      <li> Cadastrar Empréstimo </li>
     </ul>
     
    Descrição: Página para cadastrar um empréstimo com email
