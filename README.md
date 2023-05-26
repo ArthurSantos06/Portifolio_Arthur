@@ -3,19 +3,19 @@ Portifólio para documentar o processo de aprendizado na disciplina de Programa�
 
   <title> Formulário </title>
   
-    Arquivo (s)
-    <ul>__
+   Arquivo (s)
+    <ul>
       <li> CadastrarEmprestimo </li>
-    </ul>__
+    </ul>
     
-    Descrição: Página para cadastrar um empréstimo com email
+   Descrição: Página para cadastrar um empréstimo com email
     
-    Tecnologias ultilizadas:
+   Tecnologias ultilizadas:
     
-    <ul>__
+   <ul>
       <li> JavaScript </li>
-    </ul>__
+   </ul>
     
-    <h1> Dificuldades: Foi fazer a atividade,porém sem erros. </h1>
+Dificuldades: Foi fazer a atividade,porém sem erros.
     
     
